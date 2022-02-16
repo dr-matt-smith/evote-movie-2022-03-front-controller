@@ -4,15 +4,15 @@
     <title>EVOTE MOVIE - MOVIE listings</title>
     <meta charset="utf-8">
     <style>
-        @import "css/basic.css";
-        @import "css/nav.css";
-        @import "css/footer.css";
+        @import "/css/basic.css";
+        @import "/css/nav.css";
+        @import "/css/footer.css";
     </style>
 </head>
 <body>
 
 <header>
-    <img src="images/logo.gif" alt="logo">
+    <img src="/images/logo.gif" alt="logo">
 </header>
 
 <nav>
@@ -65,7 +65,7 @@
         <td>&euro; 10.00</td>
         <td>5 %</td>
         <td>1</td>
-        <td><img src="images/starsHalf.png" alt="half star"></td>
+        <td><img src="/images/starsHalf.png" alt="half star"></td>
     </tr>
 
     <tr>
@@ -75,7 +75,7 @@
         <td>&euro; 5.99</td>
         <td>90 %</td>
         <td>77</td>
-        <td><img src="images/stars5.png" alt="5 star"></td>
+        <td><img src="/images/stars5.png" alt="5 star"></td>
     </tr>
 
     <tr>
@@ -85,7 +85,7 @@
         <td>&euro; 10.00</td>
         <td>50 %</td>
         <td>5</td>
-        <td><img src="images/stars3.png" alt="3 star"></td>
+        <td><img src="/images/stars3.png" alt="3 star"></td>
     </tr>
 
     <tr>
@@ -105,7 +105,7 @@
         <td>&euro; 19.99</td>
         <td>95 %</td>
         <td>201</td>
-        <td><img src="images/stars5.png" alt="5 star"></td>
+        <td><img src="/images/stars5.png" alt="5 star"></td>
     </tr>
 </table>
 

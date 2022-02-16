@@ -4,15 +4,15 @@
     <title>EVOTE MOVIE - about</title>
     <meta charset="utf-8">
     <style>
-        @import "css/basic.css";
-        @import "css/nav.css";
-        @import "css/footer.css";
+        @import "/css/basic.css";
+        @import "/css/nav.css";
+        @import "/css/footer.css";
     </style>
 </head>
 <body>
 
 <header>
-    <img src="images/logo.gif" alt="logo">
+    <img src="/images/logo.gif" alt="logo">
 </header>
 
 <nav>

@@ -12,7 +12,7 @@
 <body>
 
 <header>
-    <img src="images/logo.gif" alt="logo">
+    <img src="/images/logo.gif" alt="logo">
 </header>
 
 <nav>
