@@ -76,7 +76,7 @@ Add Front Controller PHP OO architecture
     $app->run();
     ```
 
-- in the `/templates` folder change **all** navigation links in the HTML content to the form `/?action=<PAGE>`. This means that **EVERY** request goes through `/public/incdexphp` and our application's switch-statement in `Application::run()`
+- in the `/templates` folder change **all** navigation links in the HTML content to the form `/?action=<PAGE>`. This means that **EVERY** request goes through `/public/index.php` and our application's switch-statement in `Application::run()`
 
   - e.g. `/?action=about` for link to about page
   
